@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Jackson](https://scontent-ort2-1.xx.fbcdn.net/v/t1.6435-9/78289668_10156767318383225_6636819091980025856_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=174925&_nc_ohc=b-b_HGZTgKIAX8B5kfD&_nc_ht=scontent-ort2-1.xx&oh=964d835f2d6e9f92d66568919c6bb7fe&oe=61710E55)
